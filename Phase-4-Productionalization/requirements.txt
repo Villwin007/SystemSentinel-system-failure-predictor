@@ -1,0 +1,20 @@
+# Web Framework
+fastapi
+uvicorn
+websockets
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Database & Cache
+redis
+psycopg2-binary
+
+# System Monitoring
+psutil
+
+# Optional: Frontend (if we build React app later)
+# react==18.2.0

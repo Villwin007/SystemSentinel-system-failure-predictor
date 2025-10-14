@@ -1,0 +1,10 @@
+psutil
+redis
+psycopg2-binary
+pandas
+numpy
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+joblib
