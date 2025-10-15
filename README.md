@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-green)
 ![React](https://img.shields.io/badge/React-18%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-APACHE-yellow)
 
 ## 📖 Introduction
 
